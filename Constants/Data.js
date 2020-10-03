@@ -10,3 +10,7 @@ const info = [
         ]
     }
 ]
+
+export default info;
+
+// data sourced from https://history.nasa.gov/SpaceApps2020.html
